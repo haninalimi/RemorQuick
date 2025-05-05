@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#FFFFFF"  
+  image: assets/logos/12619504.png # Chemin de ton image splash
+  image_dark: assets/logos/12619504.png # Chemin de ton image splash
+
+  color_dark: "#272727"
+
+  android_12:
+    color: "#FFFFFF"  
+    image: assets/logos/12619504.png # Chemin de ton image splash
+    image_dark: assets/logos/12619504.png # Chemin de ton image splash
+
+    color_dark: "#272727"
+  web: false
